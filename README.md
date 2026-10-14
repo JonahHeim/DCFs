@@ -2,6 +2,13 @@
 
 Discounted cash flow (DCF) valuation models in Excel.
 
+Part of **Independent Financial Modeling Projects** (May 2024 – Present):
+
+- Built 5-year DCF models for multiple tech companies, comparing implied to market price to form buy/hold/sell views
+- Ran WACC and terminal growth sensitivity tables in Excel to define a defensible per-share implied value range
+
+**Where to find it:** the 5-year tech-company DCFs are the MU and GOOGL models (implied value vs. market price); WACC and terminal growth sensitivity tables are in GOOGL (WACC vs. g) and the NBA Happy Hour Co models (WACC vs. perpetuity growth). The NBA models and the tutorial workbook are practice / case-study material.
+
 ## Index
 
 | Model | Company | Method | Headline result |
